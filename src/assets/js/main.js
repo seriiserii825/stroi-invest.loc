@@ -17,6 +17,15 @@ $(function () {
     fixedBackground: true
   });
 
+  /*slick-carousel directions
+  =======================================*/ 
+  $('#js-directions').slick({
+    arrows: false,
+    dots: true,
+    slidesToScroll: 2,
+    slidesToShow: 4
+  });
+
 
 });
 

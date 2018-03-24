@@ -1,3 +1,4 @@
+@import "../libs/slick/_slick.scss";
 @import 'partials/_start.scss';
 
 body{
@@ -128,3 +129,61 @@ body{
     }
   }
 }
+/*left-sidebar
+=======================================*/ 
+
+/*content
+=======================================*/ 
+.content{
+  &-index{
+    margin-bottom: 85px;
+  }
+}
+
+.directions {
+  &__block {
+    margin: 0 15px;
+    padding: 15px 10px;
+    text-align: center;
+    height: 220px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+    h3{
+      color: $accent;
+    }
+  }
+
+  .slick-active,
+  .slick-active:focus {
+      outline: none!important;
+    }
+
+  .slick-dots{
+    bottom: -40px;
+
+    li{
+      
+      &.slick-active{
+        button{
+          background: #444;
+        }
+      }
+
+      button{
+        width: 4px;
+        height: 4px;
+        background: #888;
+        border-radius: 50%;
+
+        &::before{
+          content: '';
+          width: 8px;
+          height: 8px;
+        }
+      }
+    }
+  }
+}
+

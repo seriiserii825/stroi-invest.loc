@@ -24,3 +24,29 @@ a{
   text-decoration: none;
   color: $accent;
 }
+
+.btn {
+  display: inline-block;
+  padding: 20px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: all .2s;
+
+  &.btn-primary {
+    color: $white;
+    background: $accent;
+    border-bottom: 5px solid darken($accent, 10%);
+
+    &:hover {
+      background: lighten($accent, 4%);
+    }
+    &:active {
+      background:darken($accent, 4%);
+    }
+  }
+}
+
+h2{
+    font-size: 24px;
+}
