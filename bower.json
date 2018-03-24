@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap",
+  "main": "bootstrap.js",
+  "homepage": "https://github.com/seriiserii825/jeday-autoxoll",
+  "authors": [
+    "serii <seriiburduja@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "html5shiv": "html5shiv-complete#^3.7.0",
+    "es5-shim": "^4.5.10",
+    "respond": "^1.4.2",
+    "bootstrap": "^4.0.0"
+  },
+  "dependencies": {}
+}

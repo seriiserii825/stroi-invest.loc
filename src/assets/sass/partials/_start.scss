@@ -1,0 +1,26 @@
+@import "../../../../node_modules/bootstrap/scss/bootstrap-grid.scss";
+@import "_fonts.scss";
+@import "_variables.scss";
+@import "_mixins.scss";
+
+html,
+body{
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: $dark;
+  background: $body-bg;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: $accent;
+}
