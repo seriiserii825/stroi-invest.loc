@@ -140,6 +140,8 @@ body{
   }
 }
 
+/*directions
+=======================================*/ 
 .directions {
   &__block {
     margin: 0 15px;
@@ -186,4 +188,90 @@ body{
     }
   }
 }
+/*directions
+=======================================*/ 
+
+/*footer-main
+=======================================*/ 
+.footer-main {
+  padding: 60px 0;
+  color: $gray-dark;
+  background: $dark;
+
+  &__policy-link{
+    display: block;
+    margin-top: 20px;
+  }
+
+  a{
+    color: $gray-dark;
+    transition: all .2s ease;
+
+    &:hover{
+      color: $white;
+    }
+  }
+
+  small {
+    display: block;
+    margin-top: 50px;
+    max-width: 80%;
+    font-size: 10px;
+    line-height: 16px;
+  }
+
+  ul {
+    li {
+      line-height: 32px;
+    }
+  }
+}
+
+.footer-contacts {
+  margin-bottom: 30px;
+  text-align: right;
+
+  &__phone {
+    font-size: 20px;
+    font-weight: bold;
+    color: $accent;
+  }
+}
+
+.footer-socials {
+  text-align: right;
+
+  li {
+    display: inline-block;
+    margin: 0 6px;
+
+    &:last-child{
+      margin-right: 0;
+    }
+  }
+
+  a{
+    display: inline-block;
+    padding: 8px;
+    width: 34px;
+    height: 34px;
+    line-height: 1;
+    text-align: center;
+    background: #1E1D1E;
+    border-radius: 50%;
+    transition: all .4s ease;
+
+    &:hover {
+      background: lighten(#1e1d1e, 10%);
+    }
+  }
+
+  .fa {
+    color: $white;
+  }
+}
+/*footer-main
+=======================================*/ 
+
+
 
