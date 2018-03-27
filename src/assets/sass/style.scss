@@ -380,6 +380,25 @@ body{
 /*structure
 =======================================*/ 
 
+/*investors
+=======================================*/ 
+.calc{
+  &__programms {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .calc-radio {
+    flex-basis: 50%;
+
+    input[type="radio"]{
+      display: none;
+    }
+  }
+}
+/*investors
+=======================================*/ 
+
 /*footer-main
 =======================================*/ 
 .footer-main {
