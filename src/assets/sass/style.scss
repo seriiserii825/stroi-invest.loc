@@ -304,6 +304,47 @@ body{
 /*team
 =======================================*/ 
 
+/*contacts
+=======================================*/ 
+.contacts {
+
+  &__phone {
+    font-size: 18px;
+  }
+
+  .btn{
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+
+  p{
+    .fa{
+      margin-right: 12px;
+    }
+  }
+
+  .socials {
+    text-align: left;
+    color: $accent;
+
+    li a{
+      margin-right: 0;
+      text-align: center;
+      background:$accent;
+
+      &:hover{
+        background: darken($accent, 10%);
+      }
+
+      .fa{
+        color: $white;
+      }
+    } 
+  }
+}
+/*contacts
+=======================================*/ 
+
 
 /*footer-main
 =======================================*/ 
@@ -362,7 +403,7 @@ body{
   }
 }
 
-.footer-socials {
+.socials {
   text-align: right;
 
   @media screen and (max-width: $lg) {
@@ -380,10 +421,9 @@ body{
 
   a{
     display: inline-block;
-    padding: 8px;
     width: 34px;
     height: 34px;
-    line-height: 1;
+    line-height: 34px;
     text-align: center;
     background: #1E1D1E;
     border-radius: 50%;
