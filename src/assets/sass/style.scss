@@ -286,6 +286,25 @@ body{
 /*directions
 =======================================*/ 
 
+/*team
+=======================================*/ 
+.team{
+  &__item {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  h4{
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: normal;
+  }
+}
+
+/*team
+=======================================*/ 
+
+
 /*footer-main
 =======================================*/ 
 .footer-main {
