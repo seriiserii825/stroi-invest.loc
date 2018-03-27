@@ -23,7 +23,31 @@ $(function () {
     arrows: false,
     dots: true,
     slidesToScroll: 2,
-    slidesToShow: 4
+    slidesToShow: 4,
+    responsive: [
+    {
+      breakpoint: 1200,
+      settings: {
+        slidesToScroll: 3,
+        slidesToShow: 3,
+      }
+    },
+    {
+      breakpoint: 992,
+      settings: {
+        slidesToScroll: 2,
+        slidesToShow: 2,
+      }
+    },
+    {
+      breakpoint: 576,
+      settings: {
+        slidesToScroll: 1,
+        slidesToShow: 1,
+        dots: false
+      }
+    }
+  ]
   });
 
   /*toggle top-menu
