@@ -115,7 +115,6 @@ gulp.task("css:build", function(){
         .pipe(plumber())
         .pipe(sass())
         .pipe(autoprefixer())
-        .pipe(sourcemaps.write())
         .pipe(gulp.dest(path.build.css))
         .pipe(cssnano({
             zindex: false,
@@ -124,6 +123,7 @@ gulp.task("css:build", function(){
             }
         }))
         .pipe(rename("style.min.css"))
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest(path.build.css))
         .pipe(browserSync.reload({
           stream: true

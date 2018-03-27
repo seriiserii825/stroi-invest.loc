@@ -26,6 +26,17 @@ $(function () {
     slidesToShow: 4
   });
 
+  /*toggle top-menu
+  =======================================*/ 
+  $('#js-menu-btn').on('click', function(){
+    $('#js-top-nav_menu').slideToggle();
+  });
+
+  /*toggle left-sidbar-menu
+  =======================================*/ 
+  $('#js-left-sidebar-btn').on('click', function(){
+    $('#js-left-sidebar__menu').slideToggle();
+  });  
 
 });
 
