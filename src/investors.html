@@ -1,0 +1,118 @@
+//= templates/head.html
+<div class="container">
+  <div class="main">
+    <div class="row">
+      <div class="col-md-4">
+        //= templates/sidebar.html
+      </div>
+      <!-- /.col-md-4 -->
+      
+      <div class="col-md-8">
+        <div class="content">
+          <div class="content-index">
+            <h2>Инвесторам</h2>
+            
+            <div class="calc">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="calc__programms">
+                    <div class="calc-radio">
+                      <input type="radio" data-month="6" data-percent="0.2" name="programms" id="first" checked>
+                      <label for="first">
+                        <span>на 20% годовых <small>на 6 месяцев</small></span>
+                      </label>
+                      </div><!-- calc-radio -->
+                      <div class="calc-radio">
+                        <input type="radio" data-month="24" data-percent="0.26" name="programms" id="second">
+                        <label for="second">
+                          <span>на 26% годовых <small>на 2 года</small></span>
+                        </label>
+                        </div><!-- calc-radio -->
+                        <div class="calc-radio">
+                          <input type="radio" data-month="36" data-percent="0.28" name="programms" id="third">
+                          <label for="third">
+                            <span>на 28% годовых <small>на 3 года</small></span>
+                          </label>
+                          </div><!-- calc-radio -->
+                          <div class="calc-radio">
+                            <input type="radio" data-month="12" data-percent="0.24" name="programms" id="fourth">
+                            <label for="fourth">
+                              <span>на 24% годовых <small>на год</small></span>
+                            </label>
+                            </div><!-- calc-radio -->
+                            <div class="calc-radio">
+                              <input type="radio" data-month="48" data-percent="0.32" name="programms" id="sixth">
+                              <label for="sixth">
+                                <span>на 32% годовых <small>на 4 года</small></span>
+                              </label>
+                              </div><!-- calc-radio -->
+                              <div class="calc-radio">
+                                <span class="calc-popular">Популярная программа</span>
+                                
+                                </div><!-- calc-radio -->
+
+                                <div class="calc-legal">
+                                  <p>
+                                    Наша компания является налогов… агентом, удерживает и
+                                    облачивает НДФЛ Вся информация, разнаяенная на сайте, несет
+                                    исключительно рекламный характер и не является публичной
+                                    офертой.
+                                  </p>
+                                </div>
+                                
+                                </div><!-- calc__programms -->
+                                </div><!-- /.col-md-6 -->
+
+  
+                                <div class="col-md-6">
+                                  <div class="calc-right">
+                                    <h4>Укажите сумму инвестиций</h4>
+                                    <div class="calc-range">
+                                      <input id="js-range" type="text" name="summ">
+                                    </div>
+
+                                    <div class="calc-sum">
+                                      <span class="calc-sum-label">
+                                        Сумма 
+                                      </span>
+
+                                      <span class="calc-sum-num">
+                                        <span id="js-calc-sum-num-span">100000</span> руб
+                                      </span>
+                                    </div><!-- calc-sum -->
+
+                                    <div class="calc-result">
+                                      <div class="calc-total" id="js-calc-total">
+                                        <strong><span></span> руб</strong>
+                                        <small>Сумма через <span id="js-calc-month"></span> месяцев</small>
+                                      </div>
+
+                                      <div class="calc-monthly" id="js-calc-monthly">
+                                        <strong><span></span> руб</strong>
+                                        <small>Ежемесячный доход</small>
+                                      </div>
+                                    </div><!-- calc-result -->
+
+
+                                  </div>
+                                </div>
+                                <!-- /.col-md-6 -->
+                              </div>
+                              <!-- /.row -->
+                            </div>
+                            <!-- /.calc -->
+                            
+                            </div><!-- content-index -->
+                            
+                            
+                            //= templates/directions.html
+                            
+                          </div>
+                          <!-- content -->
+                        </div>
+                        <!-- /.col-md-8 -->
+                      </div>
+                      <!-- /.row -->
+                    </div>
+                  </div>
+                  //= templates/end.html

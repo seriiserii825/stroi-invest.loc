@@ -115,7 +115,6 @@ gulp.task("css:build", function(){
         .pipe(plumber())
         .pipe(sass())
         .pipe(autoprefixer())
-        .pipe(sourcemaps.write())
         .pipe(gulp.dest(path.build.css))
         .pipe(cssnano({
             zindex: false,
@@ -124,6 +123,7 @@ gulp.task("css:build", function(){
             }
         }))
         .pipe(rename("style.min.css"))
+        .pipe(sourcemaps.write())
         .pipe(gulp.dest(path.build.css))
         .pipe(browserSync.reload({
           stream: true
@@ -313,9 +313,9 @@ gulp.task("watch", function(){
     watch([path.watch.img], function(event, cb){
         gulp.start("image");
     });
-    watch([path.watch.fonts], function(event, cb){
+    /*watch([path.watch.fonts], function(event, cb){
         gulp.start("fonts");
-    });
+    });*/
     /*watch('src/assets/audio/!**!/!*.*', function(event, cb){
         gulp.start("audio");
     });*/
