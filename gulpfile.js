@@ -313,9 +313,9 @@ gulp.task("watch", function(){
     watch([path.watch.img], function(event, cb){
         gulp.start("image");
     });
-    watch([path.watch.fonts], function(event, cb){
+    /*watch([path.watch.fonts], function(event, cb){
         gulp.start("fonts");
-    });
+    });*/
     /*watch('src/assets/audio/!**!/!*.*', function(event, cb){
         gulp.start("audio");
     });*/
