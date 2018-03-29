@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_e",
+				"wp_enqueue_style"
+			],
+			[
+				"left-si",
+				"left-sidebar__object"
+			],
+			[
+				"left",
+				"left-sidebar"
+			],
+			[
+				"align-it",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"lst-n",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"jus",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"boot",
+				"bootstrap-reboot.scss"
+			],
+			[
+				"nod",
+				"node_modules/"
+			],
+			[
+				"image",
+				"image:dev"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"bro",
+				"browserSync.js"
+			],
+			[
+				"fun",
+				"function\t(gulpfile.js)"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"brow",
+				"browser-sync"
+			],
+			[
+				"sc",
+				"scss"
+			],
+			[
+				"pa",
+				"partials\t(gulpfile.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"uplo",
+				"Sync Settings: Upload"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"downl",
+				"Sync Settings: Download"
+			],
+			[
+				"down",
+				"Sync Settings: Download"
+			],
+			[
+				"loc",
+				"Local History: Create Snapshot"
+			],
+			[
+				"local",
+				"Local History: Open"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlal ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bra",
+				"git: branch"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"git branch",
+				"git: branch"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"br",
+				"git: branch"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"git sta",
+				"git: stash apply"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"up",
+				"Sync Settings: Upload"
+			],
+			[
+				"upl",
+				"Sync Settings: Upload"
+			],
+			[
+				"dow",
+				"Sync Settings: Download"
+			],
+			[
+				"downlo",
+				"Sync Settings: Download"
+			]
+		],
+		"width": 591.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/stroi-invest.loc"
+	],
+	"file_history":
+	[
+		"/var/www/wp_stroi-invest.loc/wp-content/themes/invest-theme/our-services.html",
+		"/var/www/wp_stroi-invest.loc/wp-content/themes/twentyfifteen/style.css",
+		"/home/serii/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/var/www/wp_stroi-invest.loc/wp-config.php",
+		"/home/serii/.config/sublime-text-3/Packages/User/SyncSettings.sublime-settings",
+		"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+		"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stroi-invest.loc/src/index-20180324172948.html",
+		"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+		"/var/www/stroi-invest.loc/src/templates/end.html",
+		"/home/serii/.config/sublime-text-3/Packages/User/cmh.sublime-snippet",
+		"/var/www/stroi-invest.loc/src/templates/head.html",
+		"/var/www/stroi-invest.loc/gulpfile.js",
+		"/var/www/stroi-invest.loc/src/assets/sass/partials/_start.scss",
+		"/home/serii/.config/sublime-text-3/Packages/User/cmss.sublime-snippet",
+		"/var/www/stroi-invest.loc/src/index.html",
+		"/var/www/stroi-invest.loc/package.json",
+		"/var/www/start-template.loc/.gitignore",
+		"/var/www/start-template.loc/gulpfile.js",
+		"/var/www/start-template.loc/src/assets/sass/style.scss",
+		"/var/www/start-template.loc/src/templates/head.html",
+		"/var/www/start-template.loc/src/templates/end.html",
+		"/var/www/start-template.loc/build/assets/css/style.css",
+		"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+		"/var/www/test.loc/package.json",
+		"/var/www/test.loc/gulpfile.js",
+		"/var/www/start-template.loc/gulp/tasks/watch.js",
+		"/var/www/start-template.loc/gulp/tasks/clean.js",
+		"/var/www/start-template.loc/gulp/tasks/browserSync.js",
+		"/var/www/start-template.loc/gulp/tasks/sass.js",
+		"/var/www/start-template.loc/gulp/config/tasks.js",
+		"/var/www/start-template.loc/gulp/tasks/html.js",
+		"/var/www/start-template.loc/package.json",
+		"/var/www/start-template.loc/gulp/tasks/default.js",
+		"/var/www/start-template.loc/src/index.html",
+		"/var/www/start-template.loc/build/css/style.css",
+		"/home/serii/.config/sublime-text-3/Packages/Sync Settings/SyncSettings.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 144.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 144.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "stroi-invest.loc.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"our",
+				"wp-content/themes/invest-theme/our-services.html"
+			],
+			[
+				"functions.php",
+				"wp-content/themes/invest-theme/functions.php"
+			],
+			[
+				"style.css",
+				"wp-content/themes/twentyfifteen/style.css"
+			],
+			[
+				"main.js",
+				"src/assets/js/main.js"
+			],
+			[
+				"end",
+				"src/templates/end.html"
+			],
+			[
+				"start.scss",
+				"src/assets/sass/partials/_start.scss"
+			],
+			[
+				"head.hml",
+				"src/templates/head.html"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"index.",
+				"src/index.html"
+			],
+			[
+				"_start",
+				"src/assets/sass/partials/_start.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"_vari",
+				"src/assets/sass/partials/_variables.scss"
+			],
+			[
+				"head.",
+				"src/templates/head.html"
+			],
+			[
+				"style.sc",
+				"src/assets/sass/style.scss"
+			],
+			[
+				"ind",
+				"src/index.html"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"style.scss",
+				"src/assets/sass/style.scss"
+			],
+			[
+				"head",
+				"src/templates/head.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"index.html",
+				"src/index.html"
+			],
+			[
+				"style.scs",
+				"src/assets/sass/style.scss"
+			],
+			[
+				"variable.scss",
+				"src/assets/sass/partials/_variables.scss"
+			],
+			[
+				"glpf",
+				"gulpfile.js"
+			],
+			[
+				"w",
+				"gulp/tasks/watch.js"
+			],
+			[
+				"clea",
+				"gulp/tasks/clean.js"
+			],
+			[
+				"brow",
+				"gulp/tasks/browserSync.js"
+			],
+			[
+				"html",
+				"gulp/tasks/html.js"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"ta",
+				"gulp/config/tasks.js"
+			],
+			[
+				"de",
+				"gulp/tasks/default.js"
+			],
+			[
+				"watch",
+				"gulp/tasks/watch.js"
+			],
+			[
+				"sass.js",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"html.js",
+				"gulp/tasks/html.js"
+			],
+			[
+				"task",
+				"gulp/config/tasks.js"
+			],
+			[
+				"hea",
+				"src/templates/head.html"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"sy",
+				"src/assets/sass/style.scss"
+			],
+			[
+				"vari",
+				"src/assets/sass/partials/_variables.scss"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
